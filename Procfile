@@ -1,0 +1,1 @@
+web: gunicorn loginpro.wsgi --log-file -
